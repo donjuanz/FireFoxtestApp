@@ -1,0 +1,47 @@
+!DOCTYPE html>
+  <html>
+    <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>testpage1</title>
+    <style type="text/css">
+#h1 {  
+  color: #3333ff;  
+  border-spacing: 0cm;
+}
+
+</style></head>
+  <body style="                               background-color: silver;">
+    <table style="width: 954px; height: 76px; text-align: left; margin-left: auto; margin-right: auto;"
+
+      border="1">
+      <tbody>
+        <tr>
+          <td style="width: 954px; height: 76px; text-align: center; background-color: #ff6600;">
+            <h1><strong>Firefox Hitch</strong></h1>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <br>
+    <br>
+    <fieldset><legend>Login</legend> <label for="email">email</label> <input id="email"><br>
+      <br>
+      <label for="facebook">facebook</label> <input id="facebook"> </fieldset>
+    <fieldset><legend>Location</legend> <label for="Time">Time and Date <input
+
+          size="25" name="time" type="text"></label><br>
+      <br>
+      <label for="License Plate">License Plate</label> &nbsp;<input name="License Plate"
+
+        type="text"><br>
+      <br>
+      <label for="Car Make">Car Make</label>&nbsp; <input size="25" name="Car Make"
+
+        type="text"><br>
+      <br>
+    </fieldset>
+  </body>
+</html>
+
+
