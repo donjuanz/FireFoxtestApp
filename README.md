@@ -1,2 +1,2 @@
-FireFoxtestApp
+HitchFox
 ==============
